@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Tom Salway",
+        "grades": [
+            {
+                "course": "Mathematics",
+                "grade": "A"
+            },
+            {
+                "course": "English",
+                "grade": "B"
+            },
+            {
+                "course": "Science",
+                "grade": "A"
+            }
+        ]
+    },
+    {
+        "name": "Judy Sing",
+        "grades": [
+            {
+                "course": "Mathematics",
+                "grade": "B"
+            },
+            {
+                "course": "English",
+                "grade": "C"
+            },
+            {
+                "course": "Science",
+                "grade": "B"
+            }
+        ]
+    },
+    {
+        "name": "Peter Robbin",
+        "grades": [
+            {
+                "course": "Mathematics",
+                "grade": "C"
+            },
+            {
+                "course": "English",
+                "grade": "A"
+            },
+            {
+                "course": "Science",
+                "grade": "B"
+            },
+            {
+                "course": "Computer",
+                "grade": "D"
+            }
+        ]
+    },
+    {
+        "name": "Richard Guy",
+        "grades": [
+            {
+                "course": "Mathematics",
+                "grade": "A"
+            },
+            {
+                "course": "English",
+                "grade": "A"
+            },
+            {
+                "course": "Science",
+                "grade": "A"
+            }
+        ]
+    },
+    {
+        "name": "Sulivan Joshua",
+        "grades": [
+            {
+                "course": "Mathematics",
+                "grade": "D"
+            },
+            {
+                "course": "English",
+                "grade": "C"
+            },
+            {
+                "course": "Science",
+                "grade": "D"
+            }
+        ]
+    }
+]
